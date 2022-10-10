@@ -1,0 +1,6 @@
+HALF ADDER: false false -> false false
+FULL ADDER: false false false -> false false
+MUX: control=4 in={0,0,0,0,1,0,0,0} -> true
+AdderX(4): a=0110 b=1110 -> sum=0100 : true false
+ALU Element: aluOp=1 bInvert=false : a=true b=true carryIn=true less=true -> result=true addResult=true carryOut=true
+ALU: aluOp=2 bNegate=1 : a=9 b=15 : result={[0]:false,[1]:true,[2]:false,[3]:true}

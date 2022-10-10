@@ -1,0 +1,22 @@
+The intArray[] had 7 nonzero values, 4 of which were positive.
+
+Hlowrd
+
+The group sizes are 6,0,3,1
+
+HELLO WORLD!
+
+Factors of 1234567890: 2 3 3 5 3607 3803
+
+Dumping out all of the variables, after the student code ran:
+1
+1
+1
+0
+1
+1
+10
+intArray[]: 0 7 22 -58 -36 0 20 -24 0 6 69 -20 -31 0
+groups[]: 6 0 3 1
+HELLO WORLD!
+1234567890
